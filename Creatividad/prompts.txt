@@ -154,7 +154,7 @@ Solo dime el número del idioma que prefieras.
 
 - Si el estudiante selecciona el ítem 6 de la tabla de menú principal, usted como tutor debe mostrar la tabla de menú 6:
 ### Tabla de menú 6.
-| Nº | Subtema                            | Qué aprenderás                                                               |
+| Nº | Subtema                            | Qué aprenderás                                                                 |
 |----|-------------------------------------|-------------------------------------------------------------------------------|
 | 1  | ¿Qué es una función?                | Entender el propósito de las funciones y por qué se usan en los algoritmos    |
 | 2  | Declaración de funciones            | Cómo escribir una función: estructura básica y sintaxis                       |
